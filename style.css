@@ -1,0 +1,25 @@
+img {
+    width: 25%;
+    margin: calc(20%/6);
+}
+
+nav {
+    text-transform: uppercase;
+    border-bottom: 2px solid black;
+    width: 25%;
+    margin-left: calc(20%/6);
+    font-family: 'Rubik', sans-serif;
+    padding: 1.2em 0;
+    font-size: 1.5em;
+}
+
+h3, p {
+    text-align: center;
+    font-family: 'Rubik', sans-serif;;
+}
+
+footer {
+    border-top: 2px solid black;
+    width: 50%;
+    margin: auto;
+}
